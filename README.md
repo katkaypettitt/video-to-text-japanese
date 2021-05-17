@@ -14,7 +14,7 @@ If you come across any issues when running the second cell (i.e. no wav file is 
 
 The following files are included in this repo:
 
-* `video-to-text-longfiles.ipynb`: code for videos longer than ~30 minutes
+* `video-to-text-longfiles.ipynb`: code for videos longer than ~15 minutes
 * `video-to-text-shortfiles.ipynb`: code for short videos
 
 ## Technologies
