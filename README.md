@@ -27,8 +27,6 @@ Although there are many options and even whole packages for transcribing videos 
 
 ## Contact
 
-Created by [@katrinaalaimo](https://www.katrinaalaimo.com/). If you have any questions, feel free to contact me in English or Japanese!
-
-
+If you have any questions, feel free to contact me in English or Japanese!
 
 **日本語版がなくて大変失礼いたします。ご質問などがございましたら、遠慮なくご連絡ください。**
